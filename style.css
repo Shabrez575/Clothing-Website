@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #f8d8d8;
+}
+
+.cardContainer {
+  /* border: 1px solid red; */
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+.OfferContainer {
+  /* border: 1px solid red; */
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.SliderDiv {
+  /* margin: auto; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  background-color: black;
+}
+
+.Sld {
+  background-color: #c70000;
+}
+
+.OfferHeading {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.FooterContainer {
+  max-width: 100vw;
+  background-color: #050505;
+  margin-left: 6rem;
+  margin-right: 6rem;
+  min-height: 50px;
+  margin-top: 20px;
+}
+
+.Para {
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+}
